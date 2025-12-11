@@ -78,6 +78,7 @@ npm install
 # Start the dev server
 npm run dev
 Then open the local URL shown in your terminal (usually http://localhost:5173/).
+
 🤝 How This Could Be Extended
 In a full production build, this demo could be extended to:
 Persist applications to a backend database
@@ -89,21 +90,28 @@ The core value here is the workflow design — the rest can be wired up based on
 
 ---
 
+---
+
 ## 📸 Screenshots
 
 ### NurseLink Prototype Overview
 
-<img src="public/screenshots/main-dashboard.png" width="800"/>
+![NurseLink Prototype Overview](./public/screenshots/main-dashboard.png)
 
 This screenshot shows the core workflow elements:
 - Nurse profile setup  
 - Job alerts with instant-apply buttons  
 - Employer dashboard preview  
 
+---
 
-👋 About the Developer
+## 👋 About the Developer
+
 Hi, I’m Amie — an American developer based in Paraguay. I specialize in:
-AI-powered workflows
-clean, maintainable frontends
-real-world business process automation
+
+- AI-powered workflows  
+- clean, maintainable frontends  
+- real-world business process automation  
+
 This project is part of a curated portfolio of small, focused demos that showcase the kind of systems I love building for clients: practical, human-centered, and easy to extend.
+
