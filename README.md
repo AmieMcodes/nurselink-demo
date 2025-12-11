@@ -57,9 +57,9 @@ This mirrors a typical small-clinic or staffing-agency intake workflow.
 
 ## 📂 Project Structure (High Level)
 
-```bash
+bash
 nurselink-demo/
-├─ public/          # Static assets
+├─ public             # Static assets
 ├─ src/
 │  ├─ components/   # Reusable UI pieces (form sections, buttons, layout)
 │  ├─ screens/      # Page-level components / steps (if applicable)
