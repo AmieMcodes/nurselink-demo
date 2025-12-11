@@ -95,7 +95,7 @@ The core value here is the workflow design — the rest can be wired up based on
 
 ### NurseLink Prototype Overview
 
-<img src="public/screenshots/main-dashboard.png" width="800"/>
+![NurseLink Prototype Overview](./public/screenshots/main-dashboard.png)
 
 This screenshot shows the core workflow elements:
 - Nurse profile setup  
