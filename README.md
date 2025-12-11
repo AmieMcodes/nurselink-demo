@@ -88,7 +88,6 @@ Integrate AI to summarize candidate profiles or flag missing info
 Export PDFs of applications for offline review
 The core value here is the workflow design — the rest can be wired up based on a client’s stack and tools.
 
----
 
 ---
 
@@ -96,7 +95,7 @@ The core value here is the workflow design — the rest can be wired up based on
 
 ### NurseLink Prototype Overview
 
-![NurseLink Prototype Overview](./public/screenshots/main-dashboard.png)
+<img src="public/screenshots/main-dashboard.png" width="800"/>
 
 This screenshot shows the core workflow elements:
 - Nurse profile setup  
