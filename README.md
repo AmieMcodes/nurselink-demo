@@ -86,6 +86,21 @@ Route new applications into an HR dashboard or pipeline
 Integrate AI to summarize candidate profiles or flag missing info
 Export PDFs of applications for offline review
 The core value here is the workflow design — the rest can be wired up based on a client’s stack and tools.
+
+---
+
+## 📸 Screenshots
+
+### NurseLink Prototype Overview
+
+<img src="public/screenshots/main-dashboard.png" width="800"/>
+
+This screenshot shows the core workflow elements:
+- Nurse profile setup  
+- Job alerts with instant-apply buttons  
+- Employer dashboard preview  
+
+
 👋 About the Developer
 Hi, I’m Amie — an American developer based in Paraguay. I specialize in:
 AI-powered workflows
